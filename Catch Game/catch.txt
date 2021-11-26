@@ -6,6 +6,7 @@ Title :
 Mexican Taco Hunting
 ...
 Elavator Pitch
+Taco Eating Challenge 
 ...
 30 second  gameplay description
 Tacos fly at you from the sky while you try to catch them in your mouth and eat them.
