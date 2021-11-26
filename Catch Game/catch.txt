@@ -10,8 +10,12 @@ Taco Eating Challenge
 ...
 30 second  gameplay description
 Tacos fly at you from the sky while you try to catch them in your mouth and eat them.
+Avoid barbed wire.
+Lose 5 tacos, you get beat up by cholos and game over.
+Get 30 tacos you win salsa power up, makes you immune to barbed wire. 
+Max score gets in the leaderboard.
+
 ...
 Pillars
 Hand to eye coordination, movement, points collection.
-
 ...
